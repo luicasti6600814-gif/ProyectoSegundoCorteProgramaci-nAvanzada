@@ -2,7 +2,7 @@ Reconocimiento de Dígitos Manuscritos
 
 Una aplicación web moderna construida con React y TypeScript para el reconocimiento de dígitos manuscritos utilizando inteligencia artificial.
 
-🚀 Características
+Características
 
  Funcionalidades Principales
 - **Reconocimiento de Dígitos**: Sube imágenes de dígitos manuscritos (0-9) para ser reconocidos
